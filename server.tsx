@@ -14,7 +14,7 @@ import path from 'path';
 
 const app = express();
 const port = 8000;
-const compositionId = 'HelloWorld';
+const compositionId = 'WeatherComposition';
 
 const cache = new Map<string, string>();
 

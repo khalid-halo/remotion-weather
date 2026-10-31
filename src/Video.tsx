@@ -1,5 +1,5 @@
 import { Composition } from 'remotion';
-import '../assets/font.css';
+// import '../assets/font.css';
 import { TOTAL_DURATION } from './constants';
 import { WeatherComposition } from './WeatherComposition';
 
